@@ -1,0 +1,44 @@
+{
+  "name": "project_news_alan_ai-master",
+  "version": "1.0.0",
+  "description": "### [Live Site](https://alan-news-app.netlify.app/)",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.8.54",
+    "@material-ui/core": "^4.12.4",
+    "babel-eslint": "^10.1.0",
+    "emailjs-com": "^3.2.0",
+    "eslint": "^8.55.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "react": "^17.0.2",
+    "react-scripts": "^5.0.1",
+    "words-to-numbers": "^1.5.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
